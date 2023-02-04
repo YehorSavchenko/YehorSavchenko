@@ -16,6 +16,7 @@
 | 🌐 [Dynamic web page](https://github.com/YehorSavchenko/WWW-Dynamic-Web-Page) | A dynamic web page with access to database, implemented in CSS, EJS, and JavaScript (NodeJS). |
 | 👨‍💻 [Hackathon Projects](https://github.com/YehorSavchenko/Centaris-BackEnd) | Project for Hackathon in TOP 5. Great experience with [HackYeah](https://www.linkedin.com/company/hackyeah-hackathon/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BXZvoEzOTRRCKq%2BusFhBguw%3D%3D). The biggest stationary hackathon in Europe.|
 | ➗ [Calculator](https://github.com/YehorSavchenko/Calculator) | Calculator for huge calculations. |
+| 📨 [Local Chat](https://github.com/YehorSavchenko/Local-Chat) | A local chat Android application that allows you to communicate with your neighbors in a dorm using sockets. |
 
 <h3>
 <details>
